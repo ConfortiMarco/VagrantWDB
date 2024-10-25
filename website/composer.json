@@ -1,0 +1,12 @@
+{
+  "require": {
+    "phpunit/phpunit": "^10.5",
+    "illuminate/database": "^10.47"
+  },
+  "autoload": {
+    "classmap": [
+      "application/libs/",
+      "application/models/"
+    ]
+  }
+}
